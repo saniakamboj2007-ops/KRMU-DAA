@@ -1,0 +1,6 @@
+Parcel_ID,Destination,Weight,Value,Priority
+P1,A,4,100,High
+P2,B,3,80,Medium
+P3,C,5,150,High
+P4,D,2,60,Low
+P5,E,6,200,High
